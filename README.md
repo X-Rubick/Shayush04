@@ -2,7 +2,7 @@
 
 I'm a software engineer and full stack developer from Israel. 🇮🇱
 
-- I do C++, C, Lua, Java, C#, ASM, Racket, Flutter, SQL some VB, Javascript, PHP, HTML, CSS and more.
+- I do C++, C, Lua, Java, C#, ASM, SQL some VB, Javascript, PHP, HTML, CSS and more.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Leystryku&show_icons=true&locale=en&layout=compact" alt="hiancdtrsnm" /></p>
 
