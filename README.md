@@ -6,7 +6,7 @@ I'm a software developer and full stack developer from Israel. 🇮🇱
 
 - I've privated most of my big projects and left a few ones due to privacy and ones that used my work and miscredited me. If you're still interested on my previous projects contact me.
 
-
+⠀
 
 📫 How to reach me:
 - Discord: Shay🖤#2304
