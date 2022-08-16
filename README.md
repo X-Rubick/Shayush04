@@ -1,6 +1,6 @@
 ### Hey! I'm [@Shayush04](https://twitter.com/Shayush04) (Shay R.) 👋
 
-I'm a software engineer and full stack developer from Israel. 🇮🇱
+I'm a software developer and full stack developer from Israel. 🇮🇱
 
 - I do C++, C, Lua, Java, C#, ASM, SQL some VB, Javascript, PHP, HTML, CSS and more.
 
