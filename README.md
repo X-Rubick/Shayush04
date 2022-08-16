@@ -7,4 +7,8 @@ I'm a software developer and full stack developer from Israel. 🇮🇱
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Leystryku&show_icons=true&locale=en&layout=compact" alt="hiancdtrsnm" /></p>
 
 
+- 📫 How to reach me:
+- Discord: Shay🖤#2304
+
+
 
