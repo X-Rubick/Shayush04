@@ -5,6 +5,9 @@ I'm a software developer and full stack developer from Israel. 🇮🇱
 - I do C++, C, Lua, Java, C#, ASM, SQL some VB, Javascript, PHP, HTML, CSS and more.
 
 
+f
+
+
 
 📫 How to reach me:
 - Discord: Shay🖤#2304
