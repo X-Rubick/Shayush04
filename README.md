@@ -4,7 +4,7 @@ I'm a software developer and full stack developer from Israel. 🇮🇱
 
 - I do C++, C, Lua, C#, ASM, SQL some VB, Javascript, PHP, HTML, CSS and more.
 
-- I've privated most of my big projects and left a few ones due to privacy and people that used my projects miscredited me. If you're still interested on my previous projects contact me.
+- I've privated most of my big projects and left a few ones due to privacy and ones that used my work and miscredited me. If you're still interested on my previous projects contact me.
 
 
 📫 How to reach me:
