@@ -1,4 +1,4 @@
-### Hey! I'm [@Shayush04](https://twitter.com/Shayush04) (Shay R.) 👋
+### Hey! I'm [@S](https://twitter.com/S) (S) 👋
 
 I'm a software engineer and full stack developer from Israel. 🇮🇱
 
